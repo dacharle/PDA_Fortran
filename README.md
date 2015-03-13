@@ -1,5 +1,5 @@
 # PDA_Fortran
-The Population Dynamics Algorithm that was published by Charlebois et al. in 2011 in Communications in Computational Physics.
+A version of the Population Dynamics Algorithm that was published by Charlebois et al. in 2011 in Communications in Computational Physics.
 
 This parellel Fortran 90/95 program simulates the dynamics of a heterogeneous cell population using a by default the stochastic simulation algorithm (Gillespie, Journal of Physical Chemistry, 1977). Cell population size is kept constant using a constant-number Monte Carlo method (Mantzaris et al., Journal of Theoretical Biology, 2006).
 
